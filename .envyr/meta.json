@@ -1,0 +1,7 @@
+{
+  "name": "OpenCV-Document-Scanner",
+  "interpreter": "/usr/bin/env python",
+  "ptype": "Python",
+  "deps": ["build-base"],
+  "entrypoint": "scan.py"
+}
