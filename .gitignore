@@ -1,2 +1,4 @@
 *.pyc 
 .DS_Store
+sample_images/*
+output/*
